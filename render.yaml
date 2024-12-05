@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: skibidi
+    name: mathhelpisreallygood
     env: docker
     plan: free
